@@ -1,2 +1,0 @@
-# useStateHookPractice
-Created with CodeSandbox
